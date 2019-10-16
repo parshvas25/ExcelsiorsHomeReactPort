@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+
+.navlogo {
+  height: 80px;
+  opacity: 1.5;
+  margin-right: 10px;
+}
+.navbartitle {
+  color: white;
+}
+.Navbar {
+  color: orange;
+}
